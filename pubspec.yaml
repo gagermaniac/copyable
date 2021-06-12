@@ -13,7 +13,7 @@ dependencies:
   meta: ^1.1.6
   # Generator
   analyzer: ^0.36.3
-  build: ^1.1.4
+  build: ^2.0.0
   source_gen: ^1.0.0
   code_builder: ^3.2.0
 
